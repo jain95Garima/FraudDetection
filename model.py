@@ -6,4 +6,6 @@ def model1():
 def model2():
     print("add codel for model 2")
     
+def model3():
+    print("add codel for model 3")
 print("model 2 is performing best")
